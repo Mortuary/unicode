@@ -1,6 +1,6 @@
 Unicode Character
 
-Original | Look-Alike
+Original | Identical
 --------------- | -------------
 a | а
 c | с
