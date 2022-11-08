@@ -1,4 +1,4 @@
-Unicode Character Look-Alike
+Unicode Character
 
 Original | Look-Alike
 --------------- | -------------
