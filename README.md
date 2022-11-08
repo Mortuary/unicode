@@ -2,23 +2,14 @@ Unicode Character Look-Alikes
 
 Original Letter | Look-Alike(s)
 --------------- | -------------
-a | а ạ ą ä à á ą
-c | с ƈ ċ
-d | ԁ ɗ
-e | е ẹ ė é è
-g | ġ
-h | һ
-i | і í ï
-j | ј ʝ
-k | κ
-l | ӏ ḷ
+a | а
+c | с
+d | ԁ
+e | е
+i | і
+j | ј
+l | ӏ
 n | ո
-o | о ο օ ȯ ọ ỏ ơ ó ò ö
-p | р
-q | զ
-s | ʂ
-u | υ ս ü ú ù
-v | ν ѵ
-x | х ҳ
-y | у ý
-z | ʐ ż
+o | о ο օ
+v | ν
+x | х
