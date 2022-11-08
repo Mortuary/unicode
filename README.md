@@ -1,6 +1,6 @@
-Unicode Character Look-Alikes
+Unicode Character Look-Alike
 
-Original Letter | Look-Alike(s)
+Original | Look-Alike
 --------------- | -------------
 a | а
 c | с
